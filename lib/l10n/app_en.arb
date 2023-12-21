@@ -1,0 +1,7 @@
+{ 
+  "login" : "Let's Login",
+  "email" : "Email",
+  "password" : "Password",
+  "submit" : "Submit",
+  "forgotPassword" : "Forgot Password ?"
+}
